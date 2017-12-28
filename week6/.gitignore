@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints
+.DS_Store
+.idea
+**/__pycache__
+readonly
+**/*.tgz
+**/*.pickle
+**/weights*.*
+**/*.zip

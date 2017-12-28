@@ -1,5 +1,6 @@
-.ipynb_checkpoints
+**/.ipynb_checkpoints
 .DS_Store
 .idea
-__pycache__
+**/__pycache__
 readonly
+**/*.tgz
